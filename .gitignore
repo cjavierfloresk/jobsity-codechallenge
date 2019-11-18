@@ -3,3 +3,10 @@
 ################################################################################
 
 /CodeChallenge-JS/.vs/CodeChallenge-JS
+/CodeChallenge-JS/bin
+/CodeChallenge-JS/obj/Debug
+/CodeChallenge-JS/packages
+/CodeChallenge-JS.Tests/bin/Debug
+/CodeChallenge-JS.Tests/obj/Debug
+/CodeChallenge-JS/App_Data/aspnet-CodeChallenge-JS-20191118070445_log.ldf
+/CodeChallenge-JS/App_Data/aspnet-CodeChallenge-JS-20191118070445.mdf
