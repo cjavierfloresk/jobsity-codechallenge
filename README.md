@@ -28,7 +28,7 @@ messages.
 * Handle messages that are not understood or any exceptions raised within the bot.
 * Build an installer.
 
-#Considerations
+# Considerations
 * We will open 2 browser windows and log in with 2 different users to test the
 functionalities.
 * The stock command won’t be saved on the database as a post.
